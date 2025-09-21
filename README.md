@@ -1,7 +1,7 @@
 # JSON Translator Tool
 
 A **Node.js tool** to translate JSON localization files using OpenAI GPT models.  
-Ideal for multilingual web projects (e.g., translating `en.json` into `fr.json`, `ar.json`, etc.).
+Ideal for multi-language projects (e.g., translating en.json into fr.json, ar.json, etc.).
 
 ---
 
